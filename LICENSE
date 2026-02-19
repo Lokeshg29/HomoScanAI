@@ -1,0 +1,45 @@
+MIT License
+
+Copyright (c) 2026 HemoScan Team
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+MEDICAL DISCLAIMER:
+
+HemoScan is an AI-assisted tool designed to support healthcare professionals
+in analyzing Complete Blood Count (CBC) reports. This software is intended for
+informational and educational purposes only.
+
+THIS SOFTWARE DOES NOT PROVIDE MEDICAL ADVICE. The information provided by
+HemoScan should not be used for diagnosing or treating health problems or
+diseases. Always seek the advice of qualified healthcare providers with any
+questions you may have regarding a medical condition.
+
+The developers and contributors of HemoScan are not responsible for any
+decisions made based on the information provided by this software. Users
+assume full responsibility for the use of this software and any consequences
+thereof.
+
+By using HemoScan, you acknowledge that:
+1. This software is not a substitute for professional medical advice
+2. You will consult qualified healthcare providers for medical decisions
+3. The AI predictions are probabilistic and may not be 100% accurate in all cases
+4. You understand the limitations of automated medical analysis tools
